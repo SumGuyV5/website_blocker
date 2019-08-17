@@ -122,7 +122,7 @@
     <None Include="hosts" />
   </ItemGroup>
   <ItemGroup>
-    <Text Include="license.txt" />
+    <Text Include="..\license.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

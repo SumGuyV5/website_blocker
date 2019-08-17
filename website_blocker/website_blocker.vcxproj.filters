@@ -25,7 +25,7 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="license.txt">
+    <Text Include="..\license.txt">
       <Filter>Resource Files</Filter>
     </Text>
   </ItemGroup>
