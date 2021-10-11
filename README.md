@@ -1,2 +1,2 @@
-# website_blocker
+# Website Blocker
 a Website blocker during work hours.
